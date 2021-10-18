@@ -1,0 +1,11 @@
+H|Customer_Name|CustomerID|CustomerOpenDate|LastConsultedDate|VaccinationType|Doctor|State|Country|PostCode|DateofBirth|ActiveCustomer
+D|Alex|1|20101012|20121013|covishield|Piper Sheppard|Lange|USA||06031987|A
+D|John|2|20101112|20210329|covishield|Savannah Keith|Sint|USA||26011999|A
+D|Matthew|3|20100323|20160202|covishield|Justin Leblanc|Marlb|INDIA|18518|17121996|A
+D|Matt|4|20210101|20220305|covix|Colin Hodge|Eindh|Nepal|19167|15031966|A
+D|Jacob|5|20200505|20210814|mvd|Charlotte Campbell|Keumi|Nepal|Z4730|27061959|A
+D|Rocky|6|20150518|20190808|mvd|Garrison Mosley|Salci|INDIA|87049|17081971|A
+D|Angel|7|20171214|20171214|covix|TaShya Mendez|UAE|india|61188|11082000|A
+D|Arpita|8|20190126|20201231|covix|Amal Gray|Burin|UAE|96896|24071999|A
+D|Nashant|9|20181130|20181201|mvd|Chelsea Farmer|INDIA|Nepal|09666|03101928|A
+T|9|
